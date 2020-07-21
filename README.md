@@ -1,13 +1,8 @@
-[![Build Status](https://travis-ci.org/apache/avro.svg?branch=master)](https://travis-ci.org/apache/avro)
 
-# Apache Avro™
+# Lean Service Architecture Message Serialisastion library
 
-Apache Avro™ is a data serialization system.
+This has been forked from the main Apache Avro library in order to develop a standalone library for the serialisation and de-serialisation of Lean Service Architecture Messages. 
 
-Learn more about Avro, please visit our website at:
+LSA uses a extended schema definition, therefore requiring a modified library to allow compatibility. 
 
-  https://avro.apache.org/
 
-To contribute to Avro, please read:
-
-  https://cwiki.apache.org/confluence/display/AVRO/How+To+Contribute
